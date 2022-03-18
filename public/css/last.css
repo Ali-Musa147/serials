@@ -1,0 +1,113 @@
+h1.spec-h1 {
+  color: #232323;
+  text-shadow: -3px 1px 9px #232323;
+}
+
+span.spec-span {
+  font-size: 31px;
+  color: #232323;
+}
+
+p.spec-p {
+  color: #000000;
+  text-shadow: 0 0 20px #000000;
+}
+
+.spec-sign {
+  padding: 30px 0;
+}
+
+.spec-read_more {
+  color: #232323;
+  text-shadow: -3px 1px 9px #232323;
+  font-weight: 500;
+  border: solid 2px black;
+}
+
+.spec-read_more:hover {
+  color: #232323;
+}
+
+.spec-footer {
+  background-color: white;
+}
+
+.spec-spanAuth {
+  color: #232323;
+}
+
+#spec-p2 {
+  color: #232323;
+}
+
+#authBox {
+  box-shadow: #232323 9px 9px 20px 5px;
+  border-radius: 20px;
+  padding: 60px 50px;
+}
+
+.spec-bottom_form {
+  justify-content: space-around;
+}
+
+.spec-fea {
+  background-color: #232323;
+  padding: 50px 0;
+}
+
+.spec-Our_box {
+  background-color: white;
+}
+
+#benefitsID {
+  color: white;
+}
+
+#sub-benefits {
+  color: white;
+  visibility: hidden;
+}
+
+.spec-row {
+  justify-content: center;
+}
+
+.spec-container {
+  width: 80%;
+}
+
+.enter {
+  text-align: center;
+}
+.spec-sub_btn {
+  margin-left: 0;
+  margin-top: 30px;
+}
+
+.spec-sub_btn:hover {
+  background-color: #000000;
+}
+
+#spec-enter {
+  text-align: center;
+  background-color: #232323;
+  color: white;
+  box-shadow: #232323 0px 0px 20px 2px;
+  font-size: x-large;
+}
+
+input#spec-enter::placeholder {
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+.spec-copy {
+  background-color: black;
+}
+
+.spec-people {
+  padding: 90px 0 0 0;
+}
