@@ -20,7 +20,7 @@ app.get('/',(req,res,next)=>{
 
 })
 
-app.listen(8000, () => {
+app.listen(PORT, () => {
   console.log(`server is listening on port:8000`);
 });
 
